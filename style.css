@@ -91,18 +91,18 @@ strong {
 
 
 button {
-  background-color: #135610;
+  background-color: #338aff;
   border: none;
   color: white;
   text-decoration: none;
   padding: 12px 24px;
   font-size: 24px;
-  border-radius: 12px;
+  border-radius: 25px;
   transition: background-color 0.3s ease;
 }
 
 button:hover {
-  background-color: #3e8e41;
+  background-color: #0658c8;
 }
 
 
